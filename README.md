@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Astroalicia
-- 👀 I’m interested in astronomy
+
 
 <!---
 Astroalicia/Astroalicia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
